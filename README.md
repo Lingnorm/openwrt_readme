@@ -1,5 +1,4 @@
 # openwrt_readme
-<h1>Lingnorm</h1>
 - 👋 Hi, I’m Lingnorm
   <br>👀 我是一个追求完美的玩“机”小白
   <br>虽然很菜，虽然强迫症，但还是要玩"机"的
